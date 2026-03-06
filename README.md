@@ -34,8 +34,8 @@ The project uses **API Gateway, Lambda, Glue, DynamoDB, Step Functions, S3, and 
 ##  Project Structure
 
 ```
-archive-io/
-├── terraform_scripts/          # Terraform IaC for all AWS resources
+
+AWS-RDBMS-Archival-Governance-Lakehouse/          # Terraform IaC for all AWS resources
 │   ├── main.tf
 │   ├── variables.tf
 │   ├── outputs.tf
